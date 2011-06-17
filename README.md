@@ -2,8 +2,6 @@
 A NodeJS library for working with the posterous API.
 
 ## Installation
-(Not working yet)
-
 `npm install posterous`
 
 ## Usage
